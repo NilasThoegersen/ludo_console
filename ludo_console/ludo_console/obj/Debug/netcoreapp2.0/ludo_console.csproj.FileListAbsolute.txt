@@ -1,0 +1,11 @@
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\obj\Debug\netcoreapp2.0\ludo_console.csprojResolveAssemblyReference.cache
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\obj\Debug\netcoreapp2.0\ludo_console.csproj.CoreCompileInputs.cache
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\obj\Debug\netcoreapp2.0\ludo_console.AssemblyInfoInputs.cache
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\obj\Debug\netcoreapp2.0\ludo_console.AssemblyInfo.cs
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\bin\Debug\netcoreapp2.0\ludo_console.deps.json
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\bin\Debug\netcoreapp2.0\ludo_console.runtimeconfig.json
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\bin\Debug\netcoreapp2.0\ludo_console.runtimeconfig.dev.json
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\bin\Debug\netcoreapp2.0\ludo_console.dll
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\bin\Debug\netcoreapp2.0\ludo_console.pdb
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\obj\Debug\netcoreapp2.0\ludo_console.dll
+C:\Users\Nilas\source\repos\ludo_console\ludo_console\obj\Debug\netcoreapp2.0\ludo_console.pdb
